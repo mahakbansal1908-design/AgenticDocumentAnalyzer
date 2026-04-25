@@ -1,6 +1,10 @@
 # Agentic Document Analyst
 
 A powerful, AI-driven document analysis web application powered by **Gemini 3** and **FastAPI**. This application allows users to upload various document formats or provide links to reason over content, extract information, and generate summaries using an autonomous agentic loop.
+## 🎥 Demo
+
+Watch the demo on YouTube: [Demo Video](https://youtu.be/aMYCyq0O-Ek)
+
 
 ## 🚀 Features
 
